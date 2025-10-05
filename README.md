@@ -38,7 +38,7 @@ v3.8 - 2021.6.17 | [Google Drive](https://drive.google.com/file/d/1O5KfS3KzZCY3i
 ### Installation
 python <= 3.11
 ```
-git clone git@github.com:hzwer/Practical-RIFE.git
+git clone git@github.com:vergil1000/Practical-RIFE.git
 cd Practical-RIFE
 pip3 install -r requirements.txt
 ```
